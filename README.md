@@ -29,7 +29,7 @@ The pipeline consists of three steps:
 The result is illustrated below; note that the shape gets slightly thicker and
 the axes change (due to marching cubes).
 
-![Example of watertight and simplified mesh.](screenshot.png?raw=true "Example of watertight and simplified mesh.")
+![Example of watertight and simplified mesh.](screenshot.jpg?raw=true "Example of watertight and simplified mesh.")
 
 ## Installation
 
