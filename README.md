@@ -33,6 +33,8 @@ the axes change (due to marching cubes).
 
 ## Installation
 
+**Update:** For newer CUDA versions/GPU architectures, the CMAKE file in `libfusiongpu` needs to be adapted as outlined in [this issue](https://github.com/davidstutz/mesh-fusion/issues/6).
+
 The pipeline is mostly self-contained, given a working installation of Python.
 Additionally, it requires [MeshLab](http://www.meshlab.net/) for simplification.
 
