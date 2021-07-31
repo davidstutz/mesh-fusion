@@ -140,6 +140,8 @@ For fixing `OSError: /home/mona/mesh-fusion/librender/pyrender.so: cannot open s
 
 **Compiling with new versions of Python/Cython**: Follow issue [#7](https://github.com/davidstutz/mesh-fusion/issues/7).
 
+**Using with newer GPUs**: See issue [#13](https://github.com/davidstutz/mesh-fusion/issues/13) for changes required to use the code with newer NVidia GPUS.
+
 ## License
 
 License for source code corresponding to:
