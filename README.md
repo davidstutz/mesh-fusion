@@ -135,7 +135,10 @@ The result of all steps is illustrated in the screenshot above.
 
 ## Troubleshooting
 
+**``pyrender.so'' not found:**
 For fixing `OSError: /home/mona/mesh-fusion/librender/pyrender.so: cannot open shared object file: No such file or directory`, see issue [#10](https://github.com/davidstutz/mesh-fusion/issues/10).
+
+**Compiling with new versions of Python/Cython**: Follow issue [#7](https://github.com/davidstutz/mesh-fusion/issues/7).
 
 ## License
 
