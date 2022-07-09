@@ -33,6 +33,8 @@ the axes change (due to marching cubes).
 
 ## Installation
 
+**Update:** There are some minor changes necessary for newer MeshLab versions, see [#15](https://github.com/davidstutz/mesh-fusion/issues/15).
+
 **Update:** For newer CUDA versions/GPU architectures, the CMAKE file in `libfusiongpu` needs to be adapted as outlined in [this issue](https://github.com/davidstutz/mesh-fusion/issues/6).
 
 The pipeline is mostly self-contained, given a working installation of Python.
