@@ -1,6 +1,6 @@
 <!DOCTYPE FilterScript>
 <FilterScript>
- <filter name="Quadric Edge Collapse Decimation">
+ <filter name="Simplification: Quadric Edge Collapse Decimation">
   <Param type="RichInt" value="5000" name="TargetFaceNum"/>
   <Param type="RichFloat" value="0" name="TargetPerc"/>
   <Param type="RichFloat" value="0.5" name="QualityThr"/>
@@ -13,5 +13,6 @@
   <Param type="RichBool" value="false" name="QualityWeight"/>
   <Param type="RichBool" value="true" name="AutoClean"/>
   <Param type="RichBool" value="false" name="Selected"/>
+  <Param type="RichFloat" value="0.001" name="PlanarWeight"/>
  </filter>
 </FilterScript>
